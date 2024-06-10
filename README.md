@@ -2,6 +2,6 @@
 
 >Algoritim Analysis
 
->LOGIC CIRCUITS AND LAB
+>Logic Circuits and Lab
 
 >Computer Structure
