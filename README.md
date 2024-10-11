@@ -5,3 +5,7 @@
 >Logic Circuits and Lab
 
 >Computer Structure
+
+>Assembly Language Programming
+
+>Operating Systems
